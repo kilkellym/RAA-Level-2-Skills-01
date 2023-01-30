@@ -73,6 +73,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="RAA Level 2 Skills 01.addin" />
+    <EmbeddedResource Include="Resources\Gray_32.png" />
     <EmbeddedResource Include="Resources\Yellow_32.png" />
     <EmbeddedResource Include="Resources\Yellow_16.png" />
     <EmbeddedResource Include="Resources\Red_32.png" />
